@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Ogga Hogga</h1>
+<h1 align="center">🚀 ogga hogga </h1>
 <h3 align="center">🐒 Gorilla Tag Mod Developer</h3>
 
 ---

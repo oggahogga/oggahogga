@@ -1,25 +1,50 @@
-<h1 align="center" style="color:#00e5ff;">Hey, I'm Ogga Hogga</h1>
-<h3 align="center">Gorilla Tag Mod Developer</h3>
+<h1 align="center">🚀 Ogga Hogga</h1>
+<h3 align="center">🐒 Gorilla Tag Mod Developer</h3>
 
-<h3 align="center">About Me</h3>
+---
+
+### 🧠 About Me  
 <p align="center">
-  I’ve worked on NXO Panel, Nugget Pad, and Marathon Client. I mainly use Unity and C# for my modding projects, and I also work with HTML for the NXO website at
-  <a href="https://nxo.lol" target="_blank"><strong>nxo.lol</strong></a>.
+  I’ve worked on <strong>NXO Panel</strong>, <strong>Nugget Pad</strong>, and <strong>Marathon Client</strong>.  
+  I mainly use <code>Unity</code> and <code>C#</code> for my Gorilla Tag mods,  
+  and I also do frontend stuff for the NXO site at 👉  
+  <a href="https://nxo.lol" target="_blank"><strong>nxo.lol</strong></a>
 </p>
 
-<h3 align="center">Find Me On</h3>
+---
+
+### 📡 Find Me On  
 <p align="center">
   <a href="https://www.youtube.com/@nuggetxogga" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/nxoontop" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" />
   </a>
 </p>
 
-<h3 align="center">Tools I Use</h3>
+---
+
+### 🛠️ Tools I Use  
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+</p>
+
+---
+
+### 🧪 Projects I’ve Worked On
+- 🎮 **NXO Panel** — utility mod panel for Gorilla Tag
+- 🧱 **Nugget Pad** — sandbox-style modding framework
+- 🧍‍♂️ **Marathon Client** — movement-heavy private client
+- 🌐 **NXO Web** — built with raw html/css & fast af
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:000000&height=120&section=footer"/>
 </p>

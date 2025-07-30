@@ -1,1 +1,25 @@
-<h1 align="center">Hey, I'm Ogga Hogga</h1> <h3 align="center">Gorilla Tag Mod Developer</h3> <h3 align="center">About Me</h3> <p align="center"> I’ve worked on NXO Panel, Nugget Pad, and Marathon Client. I mainly use Unity and C# for my modding projects, and I also work with HTML for the NXO website at <a href="https://nxo.lol" style="color:blue;"><strong>nxo.lol</strong></a>. </p> <h3 align="center">Find Me On</h3> <p align="center"> <a href="https://www.youtube.com/@nuggetxogga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuggetxogga" height="30" width="40" /></a> <a href="https://discord.gg/nxoontop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nxoontop" height="30" width="40" /></a> </p> <h3 align="center">Tools I Use</h3> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> </p>
+<h1 align="center" style="color:#00e5ff;">Hey, I'm Ogga Hogga</h1>
+<h3 align="center">Gorilla Tag Mod Developer</h3>
+
+<h3 align="center">About Me</h3>
+<p align="center">
+  I’ve worked on NXO Panel, Nugget Pad, and Marathon Client. I mainly use Unity and C# for my modding projects, and I also work with HTML for the NXO website at
+  <a href="https://nxo.lol" target="_blank"><strong>nxo.lol</strong></a>.
+</p>
+
+<h3 align="center">Find Me On</h3>
+<p align="center">
+  <a href="https://www.youtube.com/@nuggetxogga" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/nxoontop" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Tools I Use</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+</p>

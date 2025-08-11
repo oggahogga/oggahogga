@@ -39,9 +39,9 @@
 
 ### 🧪 Projects I’ve Worked On
 - 🎮 **NXO Panel** — utility mod panel for Gorilla Tag
-- 🧱 **Nugget Pad** — sandbox-style modding framework
-- 🧍‍♂️ **Marathon Client** — movement-heavy private client
-- 🌐 **NXO Web** — built with raw html/css & fast af
+- 🧱 **Nugget Pad** — dev for nugget pad
+- 🧍‍♂️ **Marathon Client** — my own free menu 2023
+- 🗒️ **NXO Remastered** - current NXO variant
 
 ---
 
